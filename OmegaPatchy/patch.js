@@ -1,7 +1,7 @@
 {
   "id": "OmegaPatchy",
   "servers": [
-    "https://raw.githubusercontent.com/RealOkuu/RealOkuu_2hu_mods/master/OmegaPatchy/"
+    "https://mirrors.thpatch.net/RealOkuu/master/OmegaPatchy/"
   ],
   "title": "OmegaPatchy",
   "dependencies":[]
