@@ -1,9 +1,9 @@
 {
     "id": "RealOkuu",
     "title": "RealOkuu 2hu mods",
-    "contact": "",
+    "contact": "discord@nucelarraven",
     "patches": {
-        "OmegaPatchy": "Patchouli always plays every spellcard"
+        "OmegaPatchy": "Patchouli always uses all her existing spellcards"
     },
     "patchdata": {
         "OmegaPatchy": {
