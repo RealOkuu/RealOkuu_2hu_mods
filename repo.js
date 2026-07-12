@@ -3,7 +3,7 @@
     "title": "RealOkuu 2hu mods",
     "contact": "discord@nucelarraven",
     "servers": [
-        "https://mirrors.thpatch.net/RealOkuu/master/"
+        "https://mirrors.thpatch.net/RealOkuu/"
     ],
     "patches": {
         "OmegaPatchy": "Patchouli always uses all her existing spellcards",
