@@ -6,7 +6,8 @@
         "https://mirrors.thpatch.net/RealOkuu/"
     ],
     "patches": {
-        "OmegaPatchy": "Patchouli always uses all her existing spellcards",
-        "MagicalAstronomyNecrofantasia": "Replaces Necrofantasia with a looped version of the Magical Astronomy album version"
+        "OmegaPatchy": "(TH06) Patchouli always uses all her existing spellcards",
+        "MagicalAstronomyNecrofantasia": "(TH07) Replaces Necrofantasia with a looped version of the Magical Astronomy album version",
+        "UFOLESS": "(TH12) Removes UFO from UFO so instead of UFO it's just"
     }
 }
